@@ -31,10 +31,15 @@ Welcome to my GitHub profile! I'm a software developer with experience in Flutte
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)](https://laravel.com)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbolfazlAbbasiSaeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## Socials
 
 Connect with me on other platforms:
 - [![instagram](https://img.shields.io/badge/instagram-%23FCC624.svg?style=flat&logo=instagram&logoColor=red)](https://instagram.com/abolfazlphp)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FCC624.svg?style=flat&logo=LinkedIn&logoColor=red)](https://www.linkedin.com/in/abolfazl-abbasi-118398244)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abolfazlabbasi) 
 
