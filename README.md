@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in Flutte
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](http://mysql.com)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
+[![Git]([https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=Git&logoColor=white](https://img.shields.io/badge/Go-%23F05032.svg?style=flat&logo=Go&logoColor=white))](https://go.dev)
 - RESTful API
 - Networking
 - Active Directory
