@@ -1,46 +1,87 @@
+<h1 align="center">Hi 👋, I'm Abolfazl Abbasi</h1>
+<h3 align="center">🚀 Software Developer | Flutter • Laravel • Backend • DevOps</h3>
 
-### Hi there, I'm Abolfazl Abbasi 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlAbbasiSaeb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Welcome to my GitHub profile! I'm a software developer with experience in Flutter, Laravel, PHP, server administration, and SQL. Here are some of the technologies I work with:
+---
 
-#### Skills and Technologies
+## 🧑‍💻 About Me
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat&logo=Dart&logoColor=white)](https://dart.dev)
-[![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=flat&logo=Android&logoColor=white)](https://android.com)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](http://mysql.com)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
-[![Git](https://img.shields.io/badge/Go-%23F05032.svg?style=flat&logo=Go&logoColor=white)](https://Go.dev)
-- RESTful API
-- Networking
-- Active Directory
-#### Server Administration
+- 🔭 Currently working on **Flutter & Backend Systems**
+- ⚡ Strong experience in **API Development & Server Management**
+- 🧠 علاقه‌مند به **Networking, Security & Scalable Systems**
+- 💬 Ask me about **Flutter, Laravel, PHP, Servers**
 
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=Linux&logoColor=white)](https://www.linux.org)
-[![Windows](https://img.shields.io/badge/Windows%20Server-%23FCC624.svg?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/)
-[![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat&logo=Apache&logoColor=white)](https://httpd.apache.org)
+---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbolfazlAbbasiSaeb&show_icons=true&theme=dark)
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=AbolfazlAbbasiSaeb)
-#### Frameworks and Libraries
+### 🗄 Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)](https://laravel.com)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
+### 🌐 Backend & Networking
+- RESTful API Development  
+- WebRTC / Networking  
+- Active Directory  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbolfazlAbbasiSaeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+---
 
-## Socials
+## 🖥 Server & DevOps
 
-Connect with me on other platforms:
-- [![instagram](https://img.shields.io/badge/instagram-%23FCC624.svg?style=flat&logo=instagram&logoColor=red)](https://instagram.com/abolfazlphp)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FCC624.svg?style=flat&logo=LinkedIn&logoColor=red)](https://www.linkedin.com/in/abolfazl-abbasi-118398244)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abolfazlabbasi) 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlAbbasiSaeb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlAbbasiSaeb&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p>
+  <a href="https://instagram.com/abolfazlphp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abolfazl-abbasi-118398244">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p>
+  <a href="https://buymeacoffee.com/abolfazlabbasi">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just write code... I build systems ⚙️
